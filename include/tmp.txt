@@ -1,0 +1,37 @@
+File MATRIX.C:
+    cout (" | ");
+      cout (format, m_el (m, i, j));
+    cout (" |\n");
+  cout (" [ ");
+    cout (format, v_el (v, i));
+  cout (" ]\n");
+    cout (" | ");
+        cout (format, m_el (m, i, j));
+        cout (format_0);
+    cout (" |\n");
+  cout (" [ ");
+      cout (format, v_el (v, i));
+      cout (format_0);
+  cout (" ]\n");
+      cout (" ERROR: SV_decompose : QR failed :No convergence in %1d\
+      cout (" ERROR: SV_decompose_ : QR failed : No convergence in %1d\
+File MINIMISE.C:
+      cout (" %4d: %10.4g %10.4g - %10.4g  %10.4g  %10.4g  %10.4g\n",
+    cout (" %4d: %10.4g %10.4g    %10.4g    %10.4g\n",
+      cout (" *************************************\
+          cout (" \n --------------------------------------\
+          cout (" \n --------------------------------------\
+        cout (" \n  w  = ");
+        cout (" \n <w> = ");
+        cout (" \n");
+File COMMENT.C:
+    fcout (file, "%s", line);
+  fcout (file, "%s\n", line);
+File HEADER.C:
+  cout (" calloc  : 0x%p = %d x %d\n", v, nelem, elsize);
+  cout (" calloc  : 0x%p = %d x %d\n", v, nelem, elsize);
+  cout (" realloc_check  : 0x%p = %d\n", v, size);
+  cout (" free    : 0x%p\n", v);
+File PRINT.C:
+  fcout (file, "%s", buffer);
+  cout ("%s", buffer);

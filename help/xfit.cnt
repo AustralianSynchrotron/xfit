@@ -1,0 +1,82 @@
+:Base Xfit.hlp
+1 Introduction
+2 What is XFIT?=Introduction
+2 The XFIT windows
+3 Overview=Windows
+3 The Console window=ConsoleWindow
+3 The Model window=ModelWindow
+3 The Data windows=DataWindow
+3 The Options window=OptionsWindow
+1 Theory of XAFS analysis
+2 Introduction=Theory
+2 The Model=ModelTheory
+2 Calculation of the theoretical XAFS=CalculationTheory
+2 Empirical XAFS calculation=XFPAKGTheory
+2 Ab initio XAFS calculation=AbinitioTheory
+2 Polarised XAFS=PolarisedTheory
+2 Fourier filtering=FilterTheory
+2 Refinement algorithm=RefinementTheory
+2 Constraints and restraints=RestraintsTheory
+2 Refinement using more than one XAFS data set=MultipleDataTheory
+2 Multiple absorbing atom sites=MultipleAbsorberTheory
+2 Goodness-of-fit (residual)=ResidualTheory
+2 Monte-Carlo error analysis=MonteCarloTheory
+2 User-friendly interface=InterfaceTheory
+2 Examples=ExamplesTheory
+2 Data=DataTheory
+2 Some recent XFIT analyses=RecentAnalysesTheory
+2 References=References
+2 XAFS calculation details
+3 FEFF4 XAFS calculation=FEFF4Calculation
+3 FEFF6 XAFS calculation=FEFF6Calculation
+3 XFPAKG XAFS calculation=XFPAKGCalculation
+3 Debye-Waller factors=DebyeWaller
+3 Polarisation=Polarisation
+3 Multiple absorbing atom sites=MultipleAbsorbers
+3 PHASES: Calculate FEFF4 data files=PHASES
+1 XFIT components
+2 Parameters
+3 Overview=Parameters
+3 Basic model parameters=ModelParameters
+3 Parameters associated with the XAFS data sets=XAFSParameters
+3 Working with parameters=WorkingParameters
+3 Additional model parameters
+4 Overview=AdditionalParameters
+4 FEFF4 parameters=FEFF4Parameters
+4 FEFF6 parameters=FEFF6Parameters
+4 XFPAKG parameters=XFPAKGParameters
+2 Expressions
+3 Overview=Expressions
+3 Operators=Operators
+3 Functions=Functions
+3 Functions with limited domain=LimitedDomain
+3 Precedence=Precedence
+2 Restraints and constraints
+3 Restraints and constraints=RestraintsConstraints
+2 Commands
+3 Overview=Commands
+3 DELETE: Delete data, restraints or constraints=DELETECommand
+3 END: Terminate input=ENDCommand
+3 HELP: Get help=HELPCommand
+3 LIST: List parameters, data, restraints or constraints=LISTCommand
+3 LOG-FILE: Change the log file=LOGFILECommand
+3 MONTECARLO: Monte-Carlo error analysis=MONTECARLOCommand
+3 PRINT: Save XAFS, Fourier transforms and windows=PRINTCommand
+3 REFINE: Refine parameters=REFINECommand
+3 RESTORE: Restore model parameter values=RESTORECommand
+3 SAVE: Save parameters, data, restraints or constraints=SAVECommand
+3 SYSTEM: Execute a system command=SYSTEMCommand
+3 THEORY: Select calculation theory=THEORYCommand
+3 XAFS: Read XAFS data=XAFSCommand
+2 Include files
+3 Reading command files=Include
+2 XAFS data files
+3 Old-style XAFS data file=OldDataFormat
+3 New data file format=NewDataFormat
+2 Notes
+3 Comments=Comments
+3 Abbreviations and aliases=Aliases
+1 Notes
+2 Single-scattering FEFF4 example=ClACuCl6
+2 Multiple-scattering FEFF6 example=NiCO4
+2 How to report a bug=Bugs

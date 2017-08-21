@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="42"
+   name=""
+   committed-date="2004-06-10T05:14:14.493848Z"
+   url="http://anbf2.kek.jp/repository/xfit-kylix/xfit/includex"
+   last-author="jrh"
+   kind="dir"
+   uuid="d19ff6c5-54dc-0310-86b9-deb5d9d2bce3"
+   revision="44"/>
+<entry
+   committed-rev="42"
+   name="feff8.c"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="98956ac1f8bf74905d32e3eee67bd923"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="feff4.h"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="816a67aac85fe040099829c6f27424b1"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="feff6.h"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="b52ce44e4dc866f4d0c809be09d3c7da"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="ff4_chi.c"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="ef9fe8290de16a7f829fb6595396af7c"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="feff8.h"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="229b9c5ef619443a142f9d7b6d8c63a1"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="ff6_chi.c"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="ee896df666bfb5dd559de0d7ac102c4f"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="feff_ms.c"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="bc8566b8e57d213b29b8ba7d3523038a"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="feff_.c"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="5c2604eb56916fb91369325f3759e58a"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="ff8_chi.c"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="cb9a257e6062f2cb7c33b6ef4f2f55a8"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="ff4_chi.h"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="18c0913d4f1763497c4ac9620b7b763f"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="ff6_chi.h"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="1e993a4e32bda72656afb4a56c187ddf"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="feff_.h"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="d805d903298d8a57cf2a7b850ada468e"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="feff_ms.h"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="377f6e727374dc3dcf4bbc5806cdc5da"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="ff8_chi.h"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="ea40207d9b17095705caf0791872597f"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="feff4.c"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="0e5b00b50e462eea9feec40acdc20a6e"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+<entry
+   committed-rev="42"
+   name="feff6.c"
+   text-time="2004-06-10T05:16:55.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="d441d0ef7722f3692681eb5614eb4d73"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:55.000000Z"/>
+</wc-entries>

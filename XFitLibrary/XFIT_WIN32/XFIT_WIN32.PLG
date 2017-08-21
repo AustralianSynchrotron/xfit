@@ -1,0 +1,97 @@
+--------------------Configuration: XFIT_WIN32 - Win32 Release--------------------
+Begining build with project "E:\jrh\source code\xfit-suite\xfit\XFitLibrary\XFIT_WIN32\XFIT_WIN32.DSP", at root.
+Active configuration is Win32 (x86) Dynamic-Link Library (based on Win32 (x86) Dynamic-Link Library)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /Zp1 /MT /W3 /GX /Zi /Od /I "..\..\..\include" /I "..\..\..\includex" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /FR"Release/" /Fp"Release/XFIT_WIN32.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c "
+			"OLE Type Library Maker" with flags "/nologo /D "NDEBUG" /mktyplib203 /o NUL /win32 "
+			"Win32 Resource Compiler" with flags "/l 0xc09 /d "NDEBUG" "
+			"Browser Database Maker" with flags "/nologo /o"Release/XFIT_WIN32.bsc" "
+			"COFF Linker for 80x86" with flags "kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /dll /incremental:yes /pdb:"Release/XFIT_WIN32.pdb" /machine:I386 /out:"Release/XFIT_WIN32.dll" /implib:"Release/XFIT_WIN32.lib" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\DOCUME~1\jrh\LOCALS~1\Temp\RSP16.tmp" with contents </nologo /Zp1 /MT /W3 /GX /Zi /Od /I "..\..\..\include" /I "..\..\..\includex" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /FR"Release/" /Fp"Release/XFIT_WIN32.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\jrh\source code\xfit-suite\xfit\XFitLibrary\feff8.c"
+>
+Creating command line "cl.exe @C:\DOCUME~1\jrh\LOCALS~1\Temp\RSP16.tmp" 
+Creating temp file "C:\DOCUME~1\jrh\LOCALS~1\Temp\RSP17.tmp" with contents <kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /dll /incremental:yes /pdb:"Release/XFIT_WIN32.pdb" /machine:I386 /out:"Release/XFIT_WIN32.dll" /implib:"Release/XFIT_WIN32.lib" 
+".\Release\argument.obj"
+".\Release\ascii_da.obj"
+".\Release\c_constr.obj"
+".\Release\calculat.obj"
+".\Release\char_set.obj"
+".\Release\commands.obj"
+".\Release\comment.obj"
+".\Release\complex.obj"
+".\Release\constant.obj"
+".\Release\cvector.obj"
+".\Release\data.obj"
+".\Release\ddatadll.obj"
+".\Release\debug.obj"
+".\Release\exafs.obj"
+".\Release\exafs_ty.obj"
+".\Release\expressi.obj"
+".\Release\feff4.obj"
+".\Release\feff6.obj"
+".\Release\feff8.obj"
+".\Release\feff_.obj"
+".\Release\feff_406.obj"
+".\Release\feff_601.obj"
+".\Release\feff_68.obj"
+".\Release\feff_820.obj"
+".\Release\feff_ms.obj"
+".\Release\ff4_chi.obj"
+".\Release\ff6_chi.obj"
+".\Release\ff8_chi.obj"
+".\Release\fft.obj"
+".\Release\filter.obj"
+".\Release\fourier_.obj"
+".\Release\gauss.obj"
+".\Release\grad.obj"
+".\Release\header.obj"
+".\Release\include.obj"
+".\Release\input.obj"
+".\Release\interpol.obj"
+".\Release\lex_yy.obj"
+".\Release\list_com.obj"
+".\Release\matrix.obj"
+".\Release\minimise.obj"
+".\Release\misc_com.obj"
+".\Release\models.obj"
+".\Release\montecar.obj"
+".\Release\paramete.obj"
+".\Release\parse_da.obj"
+".\Release\print.obj"
+".\Release\read_exa.obj"
+".\Release\refine.obj"
+".\Release\refine_c.obj"
+".\Release\restrain.obj"
+".\Release\save_exa.obj"
+".\Release\scan.obj"
+".\Release\search.obj"
+".\Release\statisti.obj"
+".\Release\stringextra.obj"
+".\Release\x_curves.obj"
+".\Release\xconsole.obj"
+".\Release\xdraw_mo.obj"
+".\Release\xdraw_xa.obj"
+".\Release\xfit.obj"
+".\Release\xfit_win32dll.obj"
+".\Release\xfity_tab.obj"
+".\Release\xfpakg_c.obj">
+Creating command line "link.exe @C:\DOCUME~1\jrh\LOCALS~1\Temp\RSP17.tmp" 
+Compiling...
+feff8.c
+E:\jrh\source code\xfit-suite\xfit\XFitLibrary\feff8.c(422) : warning C4101: 'd' : unreferenced local variable
+E:\jrh\source code\xfit-suite\xfit\XFitLibrary\feff8.c(422) : warning C4101: 'shell0' : unreferenced local variable
+E:\jrh\source code\xfit-suite\xfit\XFitLibrary\feff8.c(422) : warning C4101: 'next_d' : unreferenced local variable
+E:\jrh\source code\xfit-suite\xfit\XFitLibrary\feff8.c(422) : warning C4101: 'number' : unreferenced local variable
+E:\jrh\source code\xfit-suite\xfit\XFitLibrary\feff8.c(422) : warning C4101: 'current_d' : unreferenced local variable
+E:\jrh\source code\xfit-suite\xfit\XFitLibrary\feff8.c(657) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+E:\jrh\source code\xfit-suite\xfit\XFitLibrary\feff8.c(1088) : warning C4013: 'prename' undefined; assuming extern returning int
+Linking...
+
+
+
+XFIT_WIN32.dll - 0 error(s), 7 warning(s)

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="42"
+   name=""
+   committed-date="2004-06-10T05:14:14.493848Z"
+   url="http://anbf2.kek.jp/repository/xfit-kylix/xfit/include"
+   last-author="jrh"
+   kind="dir"
+   uuid="d19ff6c5-54dc-0310-86b9-deb5d9d2bce3"
+   revision="44"/>
+<entry
+   committed-rev="42"
+   name="symmetry.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="7d7534c1c8c439526ec6b25deb46e13e"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="xas.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="43feddf5b3016109d622885cc77c7486"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="print.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="249e52b7d05783172a10340d3a5c815a"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="interpol.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="5656c63179b2583627ee45e8b0f2bda8"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="comment.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="203a61191ff18ffba28620e93f1fc731"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="console.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="f35dd991c5c27992951ec25a9eac03a5"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="complex.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="4218445f99230902d722739bb91cd728"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="comment.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="88f32f2b2d17d7fd80cd1f844ec4420b"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="minimise.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="753dddc927d6a1e9bae018ca1eb19a25"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="anbf.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="9ee6730aeec92ec3c57a2ebfd4232330"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="complex.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="b75ba72b88ffd6e0132d48c357014c33"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="draw_m.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="b32027aba7e78f56b55aeeed8c55409c"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="minimise.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="fcd28f231e40439761360ddb2ff7dc88"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="fft.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="ded97a03a86994cd14e053c04fce0f46"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="dsrs.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="c11df8a109f617447200d6f859b83263"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="argument.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="88260dcb8301b960fb7e89323d2330c0"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="fft.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="ca143b12ed54395a8dea17e540aeded2"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="ps_plot.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="920e2112d8c9db6714f8494347167cb0"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="argument.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="7aeac207f1eadcd46516fcb88496dda7"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="poly.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="b61460813e5a10018ad683f5e88f724c"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="constant.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="90961522d13671aa540b720ab39c3593"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="ascii_da.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="f5c6380add14d51708ba0c880f6ff600"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="constant.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="5680fc1526f4d4d7b0d19a4e6157b5c0"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="ascii_da.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="3ba1101cb06b877f303a298277987058"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="midas.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="817a5e208b9827626d4abc1f463277e8"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="matrix.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="2465470ce62f7e9686ce30dac44b92b9"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="statisti.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="5a2cca712fcf3c6c2bf7f481a9db2f75"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="search.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="99e9c8da369db6950d842a21d53a270d"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="exafs.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="4a336f9885ca97a75df324a71a4412bc"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="make_w.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="84d8c5f722b317a08917571c940bbcf7"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="statisti.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="60b1330504ff214ad4887bb5f54daeb2"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="matrix.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="11a636bd1644cc1eeae51a565c726e23"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="search.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="366ada6a53c732e7a0534583763810ba"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="exafs.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="072a189729b3596b159a19c3afd1bc63"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="grad.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="ea523fcffd5c6ad58afd55adba5d8617"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="grad.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="1aad994cefc3e1d00e6f2c95c9464e6c"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="noise.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="979e4ef0cb001f3227a273bc3a956c51"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="gauss.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="2894ace14c912dcd9a20528e1eef7425"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="scan.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="de59e0b9dd5f811f56f73c5ff33bf052"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="xfpakg.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="285fa63cd06dd37b3a05aa3139bea19c"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="ps.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="52a637cdf883a9a73e07e79dac3c811d"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="gauss.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="b1e39677460d89d510c6696248f8a4ea"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="header.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="265716aea2508eb7346a9ca133c8e42a"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="constant.cpp"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="1c7ea79e92cf199deb575df81230d5c9"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="scan.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="70d5e038ac2e1731c9aaa8d9d6019728"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="print.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="05c18b0c0feaa1e09c97f3a4cd6667eb"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="interpol.c"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="f54d71b97980b537964980b47b4152cd"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="tmp.txt"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="c3d29776d2a96396b5528ffb44f84fe5"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+<entry
+   committed-rev="42"
+   name="header.h"
+   text-time="2004-06-10T05:16:56.000000Z"
+   committed-date="2004-06-10T05:14:14.493848Z"
+   checksum="cc5ed97805199ba9128b28f54db4c123"
+   last-author="jrh"
+   kind="file"
+   prop-time="2004-06-10T05:16:56.000000Z"/>
+</wc-entries>
